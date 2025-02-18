@@ -7,10 +7,6 @@
 
 - 📝 I regularly write articles on [https://medium.com/@cavusogluugurmert](https://medium.com/@cavusogluugurmert)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ugurmertcavusoglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ugurmertcavusoglu" height="30" width="40" /></a>
