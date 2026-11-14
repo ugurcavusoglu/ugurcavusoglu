@@ -15,7 +15,7 @@ A campus app for İzmir Institute of Technology students, built solo: mobile app
 [App Store](https://apps.apple.com/tr/app/i-yte-mobile/id6761460550) · [Google Play](https://play.google.com/store/apps/details?id=com.iytemobil.app) · [iytemobil.com](https://iytemobil.com)
 
 - **Mobile:** React Native and Expo. Social feed, real-time chat, clubs and events, carpooling, bus schedules, cafeteria menus, push notifications.
-- **Backend:** NestJS with 424 endpoints in 34 modules, PostgreSQL (Prisma), MongoDB for chat, Redis, Socket.IO.
+- **Backend:** NestJS, PostgreSQL (Prisma), MongoDB for chat, Redis, Socket.IO.
 - **Infrastructure:** Docker on Ubuntu, Nginx with rate limiting, Suricata IDS and Wazuh SIEM.
 - **Also:** React admin panel, Python scrapers, and a [Next.js website](https://github.com/ugurcavusoglu/iytemobil_website).
 
